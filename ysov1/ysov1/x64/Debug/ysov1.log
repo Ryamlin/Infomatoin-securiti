@@ -1,0 +1,4 @@
+﻿  ysov1.cpp
+C:\Users\Rumlin\source\repos\ysov1\ysov1\ysov1.cpp(16,26): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Rumlin\source\repos\ysov1\ysov1\ysov1.cpp(28,26): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  ysov1.vcxproj -> C:\Users\Rumlin\source\repos\ysov1\x64\Debug\ysov1.exe

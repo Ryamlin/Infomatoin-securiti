@@ -1,0 +1,4 @@
+﻿  ysov4.cpp
+C:\Users\Rumlin\source\repos\ysov4\ysov4\ysov4.cpp(69,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Rumlin\source\repos\ysov4\ysov4\ysov4.cpp(69,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  ysov4.vcxproj -> C:\Users\Rumlin\source\repos\ysov4\x64\Debug\ysov4.exe
